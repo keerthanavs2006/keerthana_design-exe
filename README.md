@@ -1,20 +1,23 @@
 ![Untitled-3](design.png)
-# **[Project Name]**
+# **[SUSTAINABLE FUTURE]**
 
 
 **DESIGN.EXE designathon 2025**
 
-> A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
+It is a website for buying sustainable and ecofriendly products
 
 
 ## **Link to figma file**
-Add the link here
+https://www.figma.com/design/ENrjfmMC9kXRzGS1GRGRsc/sustainable-future?node-id=28-5&t=UiZbLJVhnW10D65n-1
 
 ## **Hosted url**
-Add the link here
+https://github.com/keerthanavs2006/keerthana-athma_sustain
+
+could not host
 
 ## **Installation**
-How on earth can we set up your project up and running?
+By making people to buy sustainable products through our website
+
 
 ## **Steps to run**  
 Care to explain?
